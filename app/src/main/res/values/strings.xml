@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login Demo</string>
+    <string name="Button">ENTER</string>
+    <string name="Welcome">Welocome ! The LogIN has successfully completed</string>
+</resources>
